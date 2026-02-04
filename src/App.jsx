@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Header from './components/Header';
-import ProductList from './components/ProductList';
+import ProductList from './components/Productlist';
 import CartSidebar from './components/CardSidebar';
 import './App.css';
 
